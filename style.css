@@ -1,0 +1,46 @@
+html {
+  font-size: 22px;
+}
+.css-keje6w.e1tzin5v1 {
+    text-align: center;
+    align-items: center;
+    padding: 10px; 
+    margin: 0; 
+  }
+  
+.css-1a32fsj.e19lei0e0 {
+  margin-left: 89px
+  }
+
+.css-10trblm.e16nr0p30{
+  text-align: center;
+}
+.css-10trblm.e16nr0p30{
+  color: aliceblue;
+}
+p {
+  color: rgb(139 88 12);
+  font-size: 22px;
+}
+.css-nahz7x a {
+  color: rgb(237 237 237);
+}
+
+.movie-title {
+  border: 1px solid rgb(139, 88, 12);
+  padding: 10px;
+  display: inline-block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#movie-title{
+  color: aliceblue;
+  font-size: 40px;
+  border: 1px rgb(139 88 12) solid;
+  border-radius: 5px;
+}
+.css-q8sbsg p {
+  word-break: break-word;
+  margin-bottom: 0px;
+  font-size: 30px;
+}

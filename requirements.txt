@@ -1,0 +1,4 @@
+requests==2.31.0
+streamlit==1.22.0
+base64
+json
