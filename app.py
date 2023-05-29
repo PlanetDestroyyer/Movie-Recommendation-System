@@ -76,9 +76,7 @@ def movie(movieName):
                         ,
                         unsafe_allow_html=True)
                     st.write(str(new_element['l']))
-                    
-                    
-            
+
                     st.image(new_element.get('i', {}).get('imageUrl'), width=300)
             
                     st.write(f"Cast : {str(new_element['s'])}")
@@ -88,9 +86,6 @@ def movie(movieName):
                     name = name.replace(":", "")
                     year = str(new_element['y'])
                     st.markdown(f"[For more info...](https://www.google.com/search?q={name}+{year})", unsafe_allow_html=True)
-            
-                st.write("-------------------")
-
         except:
             pass
     except:
