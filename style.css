@@ -8,13 +8,9 @@ html {
     margin: 0; 
   }
   
-/* .css-1a32fsj.e19lei0e0 {
-  margin-left: 45px;
-  } */
-.css-dal08n {
-    width: 49px;
-    position: relative;
-}
+.css-1a32fsj.e19lei0e0 {
+  margin-left: 60px;
+  }
 
 .css-10trblm.e16nr0p30{
   text-align: center;
@@ -47,4 +43,16 @@ p {
   word-break: break-word;
   margin-bottom: 0px;
   font-size: 25px;
+}
+.css-dal08n {
+  width: 44px;
+  position: relative;
+}
+@media screen and (max-width : 768px) {
+  .css-1a32fsj.e19lei0e0 {
+    margin-left: 20px
+    }
+    html {
+      font-size: 16px;
+    }
 }
