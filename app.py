@@ -45,10 +45,6 @@ def remove_underline():
         """,
         unsafe_allow_html=True
     )
-image_style = """
-    width: 300px;
-    height: 300px;
-"""
 
 add_bg('Bg-image.png') 
 def movie(movieName):
