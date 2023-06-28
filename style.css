@@ -55,22 +55,15 @@ p {
   text-align: center;
 }
 .css-1kyxreq{
-  margin-left: 88px;
+  justify-content: center;
 }
-.block-container.css-1y4p8pa.e1g8pov64{
-  text-align: center;
-}
+
 @media screen and (max-width : 768px) {
-  .css-1a32fsj.e19lei0e0 {
-    margin-left: 25px
-    }
+  
   html {
       font-size: 16px;
     }
   .block-container.css-1y4p8pa.e1g8pov64{
     text-align: center;
   }
-  .css-1kyxreq.ebxwdo62{
-      margin-left: 25px;
-    }
 }
